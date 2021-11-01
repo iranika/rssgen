@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>みちくさびゅあー</title>
+        <link>https://movue.iranika.info</link>
+        <description>ばっくやーど数こまの更新RSS</description>
+        <language>ja-JP</language>
+        <item>
+            <title>もういちど</title>
+            <link>https://movue.iranika.info/#/?page=latest</link>
+            <pubDate>Mon, 01 Nov 2021 16:21:11 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
